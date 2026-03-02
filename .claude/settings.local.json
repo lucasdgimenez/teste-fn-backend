@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(php artisan make:model Fornecedor -m)",
+      "Bash(php artisan make:model Produto -m)",
+      "Bash(php artisan make:model Compra -m)",
+      "Bash(php artisan make:model Venda -m)"
+    ]
+  }
+}
